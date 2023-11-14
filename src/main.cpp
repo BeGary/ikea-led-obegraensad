@@ -13,7 +13,7 @@
 #include "plugins/DrawPlugin.h"
 #include "plugins/BreakoutPlugin.h"
 #include "plugins/SnakePlugin.h"
-#include "plugins/GameOfLifePlugin.h"
+#include "plugins/GameoflifePlugin.h"
 #include "plugins/StarsPlugin.h"
 #include "plugins/LinesPlugin.h"
 #include "plugins/CirclePlugin.h"
