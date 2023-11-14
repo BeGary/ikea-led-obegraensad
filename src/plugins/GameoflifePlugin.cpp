@@ -1,4 +1,4 @@
-#include "plugins/GameOfLifePlugin.h"
+#include "plugins/GameoflifePlugin.h"
 
 uint8_t GameOfLifePlugin::countNeighbours(int row, int col)
 {
